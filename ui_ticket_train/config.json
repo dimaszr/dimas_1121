@@ -1,0 +1,11 @@
+{
+    "modules": [
+        "main_navigation",
+        "dashboard",
+        "seat_picker",
+        "booking_detail"
+    ],
+    "module_directory_name": "module",
+    "experimental_mode": false,
+    "unfreezed": true
+}
